@@ -8,7 +8,7 @@ Refer to this website: https://gamecardmemory.netlify.app
 
 ## Authors
 
-- [@Kamilismayilzade](https://www.github.com/Kamilismayilzade)
+- [@Adrian](https://www.github.com/adrid34)
 
 
 ## Documentation
@@ -90,13 +90,13 @@ Javascript, React, HTML, CSS,
 Clone the project
 
 ```bash
-  git clone https://github.com/Kamilismayilzade/card-memory-game-react
+  git clone https://github.com/adrid34/react-card-memory-game
 ```
 
 Go to the project directory
 
 ```bash
-  cd card-memory-game-react
+  cd react-card-memory-game
 ```
 
 Install dependencies
